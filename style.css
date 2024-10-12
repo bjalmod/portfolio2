@@ -77,8 +77,8 @@ html{
 
     nav{
           position: absolute;
-          display: none;
-          top: 0%;
+          
+          top: 100%;
           right: 0;
           width: 40%;
           border-left: 3px solid #b74b4b;
